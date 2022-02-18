@@ -11,5 +11,8 @@
   "devDependencies": {
     "jest": "^27.5.1",
     "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
   }
 }
